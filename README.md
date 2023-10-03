@@ -1,4 +1,4 @@
-﻿# Demo Main TCP-Server
+﻿# Demo Main TCP-Server [Async]
 
 Demo version of the main server for other clients in this development cycle.
 
